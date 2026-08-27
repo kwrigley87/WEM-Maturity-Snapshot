@@ -2262,7 +2262,7 @@ window.WEM_CONFIG = {
     "2000 - 5000",
     "5000+"
   ],
-  "leadEndpoint": "",
+  "leadEndpoint": "https://wem-navigator-api.kieron-wrigley.workers.dev/api/assessment",
   "journeys": [
     {
       "id": "planning",
